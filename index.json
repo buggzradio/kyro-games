@@ -4,14 +4,11 @@
     "image": "https://crazychicken3d.io/data/image/crazy-cattle-3d.png",
     "path": "https://buggzradio.github.io/kyro-games/games/crazycattle/"
   },
+
   {
-    "name": "1v1.lol",
-    "image": "https://buggzradio.github.io/kyro-games/games/1v1/logo.png",
-    "path": "https://buggzradio.github.io/kyro-games/games/1v1/"
+    "name": "Crazy Cattle",
+    "image": "https://crazychicken3d.io/data/image/crazy-cattle-3d.png",
+    "path": "https://buggzradio.github.io/kyro-games/games/crazycattle/"
   },
-  {
-    "name": "Subway Surfers",
-    "image": "https://buggzradio.github.io/kyro-games/games/subway/logo.png",
-    "path": "https://buggzradio.github.io/kyro-games/games/subway/"
-  }
+
 ]
