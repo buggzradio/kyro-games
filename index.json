@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cattle",
+    "image": "https://cattle.com/logo.jpg",
+    "path": "/games/cattle/"
+  },
+  {
+    "name": "1v1.lol",
+    "image": "https://raw.githubusercontent.com/buggzradio/kyro-games/main/games/1v1/logo.png",
+    "path": "/games/1v1/"
+  },
+  {
+    "name": "Subway Surfers",
+    "image": "https://raw.githubusercontent.com/buggzradio/kyro-games/main/games/subway/logo.png",
+    "path": "/games/subway/"
+  }
+]
