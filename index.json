@@ -6,6 +6,12 @@
   },
 
   {
+    "name": "Hill Fall Racing",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVF1rIVHvTH8Hcqfv5vsbtiNXpcIBv3LxXnw&s",
+    "path": "https://buggzradio.github.io/kyro-games/games/hillclimb/"
+  },
+
+  {
     "name": "Goofy Ahh Crazy Chicken Game",
     "image": "https://ih1.redbubble.net/image.4706208744.3120/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
     "path": "https://buggzradio.github.io/kyro-games/games/goofychicken/"
